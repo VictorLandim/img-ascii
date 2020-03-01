@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: 'Consolas', sans-serif;
+  font-size: 10px;
+}
+
+body {
+  min-height: 100vw;
+  border: 2px solid lightblue;
+}
+
+#ascii {
+  color: black;
+  font-size: 4px;
+
+  font-family: 'Courier New', 'monospace';
+  margin: 1rem auto;
+  font-size: 10px;
+  line-height: 1;
+  letter-spacing: 2px;
+}
